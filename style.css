@@ -1,0 +1,19 @@
+body {
+    background-image: url(imagenes/imagen3.png
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 2.9rem;
+}
